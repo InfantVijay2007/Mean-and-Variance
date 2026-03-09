@@ -100,7 +100,8 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 # Output : 
 
-<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/45ee19bc-d878-466a-9f37-8c28b78decb8" />
+<img width="839" height="777" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/b9bb862a-9242-4750-beec-9349d45cb6b3" />
+
 
 
 # Results :
